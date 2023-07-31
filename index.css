@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: rgb(8, 8, 8);
+    color : white;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.card{
+    background-color: rgb(68, 68, 68);
+
+}
